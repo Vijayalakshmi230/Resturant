@@ -1,0 +1,190 @@
+.main {
+    width: 900px;
+    float: right;
+    border-style: outset;
+}
+
+.main ul li {
+    width: 120px;
+    float: left;
+    margin: 10px auto;
+    text-align: ridge;
+}
+
+.main ul li a {
+    text-decoration: none;
+    color: violet;
+}
+
+.main ul li:hover {
+    background-color: lightcoral;
+}
+
+.Intro {
+    width: 300px;
+    height: 538px;
+    background-color: bisque;
+    opacity: 0.9;
+
+    padding: 55px;
+}
+
+.Intro h1 {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 100px;
+}
+
+.Intro h3 {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 100px;
+}
+
+.Intro h4 {
+    text-align: center;
+    font-size: medium;
+
+}
+
+.Intro img {
+    border-radius: 50%;
+}
+
+.Food {
+    width: 1200px;
+    float: left;
+    padding: 20px 0px;
+}
+
+.Food-left {
+    width: 230px;
+    float: left;
+    padding: 10px;
+}
+
+.Food-right {
+    width: 330px;
+    float: left;
+    padding: 5px 10px 10px;
+    height: 170px;
+    line-height: 26px;
+    text-align: justify;
+}
+
+.Food-right-h4 {
+    font-weight: 600;
+    color: #000;
+    padding: 0px;
+}
+
+.margin_5 {
+    margin: 5px 0px;
+    float: left;
+}
+
+.margin_p3 {
+    margin: 10px 0px 5px;
+}
+
+.price {
+    color: #000;
+    padding: 5px 0px;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.green {
+    color: #7db549;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.order-now {
+    color: #FFF;
+    background: #7db549;
+    padding: 5px 15px;
+    border-radius: 2px;
+    text-decoration: none;
+    margin: 5px auto;
+}
+
+.order-now:hover {
+    background: #689242;
+}
+
+.footer {
+    width: 1200px;
+    float: left;
+    padding: 20px 0px;
+    background: #333;
+}
+
+.footer-parts {
+    width: 300px;
+    padding: 0px 50px;
+    float: left;
+}
+
+.footer-parts-h3 {
+    font-size: 18px;
+    font-weight: 600;
+    color: #FFF;
+    padding: 10px 0px;
+}
+
+.footer-parts-p {
+    color: #000;
+    line-height: 24px;
+    text-align: justify;
+    color: #FFF;
+}
+
+.footer-icons {
+    list-style: none;
+}
+
+.footer-icons ul {
+    list-style: none;
+    padding: 0px;
+}
+
+.footer-icons ul li {
+    float: left;
+    padding: 0px 25px 0px 5px;
+    text-transform: uppercase;
+}
+
+.footer-icons ul li a {
+    color: #FFF;
+    font-weight: 600;
+    font-size: 18px;
+}
+
+.footer-icons ul li a:hover {
+    color: #CCC;
+}
+
+.footer-bottom {
+    width: 1170px;
+    float: left;
+    padding: 15px;
+    text-align: center;
+    color: #FFF;
+    font-size: 13px;
+    background: #000;
+}
+
+.white {
+    color: #FFF;
+    text-decoration: none;
+}
+
+.white a {
+    color: #FFF;
+    text-decoration: none;
+}
+
+.white a:hover {
+    color: #CCC;
+}
